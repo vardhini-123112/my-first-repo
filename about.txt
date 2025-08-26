@@ -1,0 +1,3 @@
+Name: Kadali  Venkata Satya Vardhini
+Course: B.sc Computer Science
+learned: I learned how to create GitHub account and how to create repository and add files  and update files to it.
